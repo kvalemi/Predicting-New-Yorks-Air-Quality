@@ -34,4 +34,4 @@ The data were obtained from the New York State Department of Conservation (ozone
 
 2) After I tuned each machine, I then proceeded to benchmark and compare each fitted machine using repeated 10-fold cross validation.
 
-* The benchmarking pipeline can be found in the benchmarking pipelinef ile.
+* The benchmarking pipeline can be found in the benchmarking pipeline file.

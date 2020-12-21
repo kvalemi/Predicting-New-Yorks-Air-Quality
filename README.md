@@ -5,6 +5,7 @@ In this project, I aimed to train and test numerous regression machines on the N
 Please see below for details regarding the dataset:
 
 **Format**
+
 A data frame with 153 observations on 6 variables.
 
 * Ozone	numeric	Ozone (ppb)
@@ -15,6 +16,7 @@ A data frame with 153 observations on 6 variables.
 * Day	numeric	Day of month (1--31)
 
 **Details**
+
 Daily readings of the following air quality values for May 1, 1973 (a Tuesday) to September 30, 1973.
 
 * Ozone: Mean ozone in parts per billion from 1300 to 1500 hours at Roosevelt Island

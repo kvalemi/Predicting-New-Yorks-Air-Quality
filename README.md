@@ -30,7 +30,7 @@ Daily readings of the following air quality values for May 1, 1973 (a Tuesday) t
 **Source**
 The data were obtained from the New York State Department of Conservation (ozone data) and the National Weather Service (meteorological data).
 
-## Project Steps##
+## Project Steps
 
 1) I fit several machines to this dataset and attempted to tune each in order to gain the best performance out of each machine.
 
